@@ -1,0 +1,10 @@
+{
+  "name": "Online English Dictionary",
+  "description": "Interactive English dictionary with voice input, definitions, grammar analysis, pronunciations, visual pictures, sentence examples, alternates, and 22 Indian language translations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
